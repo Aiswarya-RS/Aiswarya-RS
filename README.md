@@ -69,18 +69,6 @@ A full-stack web application that allows users to browse books, create accounts,
 - ✅ Kubernetes Workshop
 - ✅ Full Stack Development Internship
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aiswarya-RS&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiswarya-RS&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswarya-RS&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ## 📈 Contribution Graph
 
 [![Aiswarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya-RS&theme=tokyo-night)](https://github.com/Aiswarya-RS)
@@ -89,16 +77,16 @@ A full-stack web application that allows users to browse books, create accounts,
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/aiswarya-r-s-a65a19374/)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/aiswarya-r-s-a65a19374/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aiswaryaram025@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/[YOURUSERNAME](https://leetcode.com/u/Aiswarya_R_S/)/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/Aiswarya_R_S/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
