@@ -89,15 +89,15 @@ A full-stack web application that allows users to browse books, create accounts,
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/aiswarya-r-s-a65a19374/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:aiswaryaram025@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOURUSERNAME/">
+<a href="https://leetcode.com/[YOURUSERNAME](https://leetcode.com/u/Aiswarya_R_S/)/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
