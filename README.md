@@ -18,3 +18,11 @@ Welcome to my GitHub Profile 🚀
 - 🌐 Full Stack Web Developer
 - 📍 Coimbatore, Tamil Nadu, India
 - 🎯 Aspiring Software Engineer
+
+## 💻 Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,nodejs,express,mongodb,mysql,git,github,vscode,tensorflow,flask,docker"/>
+
+</p>
