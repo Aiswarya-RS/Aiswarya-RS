@@ -9,3 +9,12 @@ Welcome to my GitHub Profile 🚀
 </p>
 
 ---
+## 👩‍💻 About Me
+
+- 🎓 Final Year Computer Science Engineering Student at Dr. NGP Institute of Technology
+- 💻 Passionate Java Developer
+- 🌱 Currently learning Data Structures & Algorithms
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌐 Full Stack Web Developer
+- 📍 Coimbatore, Tamil Nadu, India
+- 🎯 Aspiring Software Engineer
