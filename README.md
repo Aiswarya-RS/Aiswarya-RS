@@ -165,12 +165,15 @@ A web-based Online BookStore developed using HTML, CSS and JavaScript. The proje
 
 ## 📈 GitHub Activity
 
+## 📊 GitHub Stats
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya-RS&theme=tokyo-night">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Aiswarya-RS&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiswarya-RS&theme=tokyonight" />
+</p>
 ---
 
 ## 🌐 Connect With Me
