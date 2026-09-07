@@ -5,21 +5,36 @@ Computer Science Engineering Student | Java Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-Welcome to my GitHub Profile 🚀
+Aspiring Software Engineer passionate about Java, AI/ML and Full Stack Development 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aiswarya-r-s-a65a19374/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aiswaryaram025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Aiswarya_R_S/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
 ## 👩‍💻 About Me
 
 - 🎓 Final Year Computer Science Engineering Student at Dr. NGP Institute of Technology
-- 💻 Passionate Java Developer
-- 🌱 Currently learning Data Structures & Algorithms
+- 💻 Passionate about Java Development
+- 🌱 Currently strengthening my Data Structures & Algorithms skills
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Web Developer
+- 🌐 Exploring Full Stack Web Development
 - 📍 Coimbatore, Tamil Nadu, India
 - 🎯 Aspiring Software Engineer
 
-## 💻 Languages and Tools
+---
+
+## 💻 Languages & Tools
 
 <p align="center">
 
@@ -27,66 +42,159 @@ Welcome to my GitHub Profile 🚀
 
 </p>
 
-## 🚀 Featured Projects
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Links</th>
+</tr>
+
+<tr>
+<td><b>🚗 Driver Drowsiness Detection</b></td>
+<td>
+AI-based driver safety system that detects drowsiness by monitoring eye blink patterns and triggers alerts when signs of fatigue are detected.
+</td>
+<td>
+<a href="YOUR_GITHUB_LINK">GitHub</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🥗 Smart AI Nutrition</b></td>
+<td>
+AI-powered nutrition and food analysis system that uses computer vision and Python to provide intelligent food and nutrition insights.
+</td>
+<td>
+<a href="https://github.com/Aiswarya-RS/smart-ai-nutrition-system" target="_blank">GitHub</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🏥 ORGASCAN</b></td>
+<td>
+AI-based healthcare platform for disease detection from external body-organ images using deep learning, with intelligent healthcare assistance.
+</td>
+<td>
+<a href="https://github.com/Aiswarya-RS/ORGASCAN" target="_blank">GitHub</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🩸 Blood Bank Management System</b></td>
+<td>
+Web-based blood bank management system for user registration, login, blood requests and request status tracking.
+</td>
+<td>
+<a href="https://github.com/Aiswarya-RS/BloodBank-Management-System" target="_blank">GitHub</a>
+</td>
+</tr>
+
+<tr>
+<td><b>📚 Online BookStore</b></td>
+<td>
+Web-based bookstore application that provides a responsive interface for browsing and interacting with books.
+</td>
+<td>
+<a href="https://github.com/Aiswarya-RS/Online-BookStore" target="_blank">GitHub</a>
+</td>
+</tr>
+
+</table>
+
+---
+
+## ⭐ Featured Projects
 
 ### 🚗 Driver Drowsiness Detection System
-An intelligent driver safety system that detects drowsiness using eye blink patterns. The system continuously monitors the driver's eyes and triggers an alert when signs of fatigue are detected, helping prevent road accidents.
 
-**Tech Stack:** Python, OpenCV, Eye Blink Sensor
+An intelligent driver safety system that continuously monitors eye blink patterns to detect signs of driver fatigue. When drowsiness is detected, the system triggers an alert to improve driver safety and help prevent road accidents.
+
+**Tech Stack:**  
+`Python` `OpenCV` `Eye Blink Sensor`
 
 ---
 
 ### 🥗 Smart AI for Personalized Nutrition and Consumer Insights
-An AI-powered web application that provides personalized nutrition recommendations based on user health data, dietary preferences, and consumer behavior. It helps users make informed food choices through intelligent insights.
 
-**Tech Stack:** Python, Machine Learning, Flask, HTML, CSS, JavaScript
+An AI-powered nutrition and food analysis system that uses computer vision and Python to analyze food-related information and provide intelligent nutrition insights. The project focuses on using AI-based techniques to support smarter food and nutrition decisions.
+
+**Tech Stack:**  
+`Python` `Computer Vision` `Machine Learning`
+
+**🔗 Repository:** [View on GitHub](https://github.com/Aiswarya-RS/smart-ai-nutrition-system)
 
 ---
 
 ### 🏥 ORGASCAN – AI-Based Smart Disease Detection
-An intelligent healthcare platform that detects diseases from images of external body organs such as the skin and eyes using deep learning. The system provides disease prediction, treatment suggestions, nearby hospital recommendations, secure blockchain-based diagnosis storage, and an AI medical chatbot.
 
-**Tech Stack:** Python, Flask, TensorFlow, OpenCV, MongoDB, Ethereum Blockchain, Solidity
+An intelligent healthcare platform that uses deep learning to detect diseases from images of external body organs such as skin and eyes. The system combines AI-based disease prediction with treatment suggestions, nearby hospital recommendations, blockchain-based diagnosis storage and an AI medical chatbot.
+
+**Tech Stack:**  
+`Python` `Flask` `TensorFlow` `OpenCV` `MongoDB` `Ethereum Blockchain` `Solidity`
+
+**🔗 Repository:** [View on GitHub](https://github.com/Aiswarya-RS/ORGASCAN)
 
 ---
 
 ### 🩸 Blood Bank Management System
-A web-based blood bank management application that streamlines donor registration, blood inventory management, blood requests, and administrative operations, enabling efficient blood availability tracking.
 
-**Tech Stack:** Python, Django, SQLite, HTML, CSS, Bootstrap
+A web-based blood bank management application that enables users to register, log in, request blood and track the status of their requests. The system is designed to simplify blood request management and improve the organization of blood bank operations.
+
+**Tech Stack:**  
+`Python` `Django` `SQLite` `HTML` `CSS` `Bootstrap`
+
+**🔗 Repository:** [View on GitHub](https://github.com/Aiswarya-RS/BloodBank-Management-System)
 
 ---
 
 ### 📚 Online BookStore
-A full-stack web application that allows users to browse books, create accounts, manage shopping carts, and place orders through a responsive interface with secure backend functionality.
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+A web-based Online BookStore developed using HTML, CSS and JavaScript. The project provides a user-friendly interface for browsing and interacting with books through a responsive web design.
+
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript`
+
+**🔗 Repository:** [View on GitHub](https://github.com/Aiswarya-RS/Online-BookStore)
+
+---
 
 ## 📜 Certifications
 
-- ✅ NPTEL - Cloud Computing
-- ✅ NPTEL - Internet of Things
-- ✅ Kubernetes Workshop
-- ✅ Full Stack Development Internship
+- ☁️ NPTEL – Cloud Computing
+- 🌐 NPTEL – Internet of Things
+- ☸️ Kubernetes Workshop
+- 💻 Full Stack Development Internship
 
-## 📈 Contribution Graph
+---
 
-[![Aiswarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya-RS&theme=tokyo-night)](https://github.com/Aiswarya-RS)
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya-RS&theme=tokyo-night">
+
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/aiswarya-r-s-a65a19374/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aiswaryaram025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Aiswarya_R_S/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
