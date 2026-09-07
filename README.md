@@ -54,16 +54,6 @@ Aspiring Software Engineer passionate about Java, AI/ML and Full Stack Developme
 </tr>
 
 <tr>
-<td><b>🚗 Driver Drowsiness Detection</b></td>
-<td>
-AI-based driver safety system that detects drowsiness by monitoring eye blink patterns and triggers alerts when signs of fatigue are detected.
-</td>
-<td>
-<a href="YOUR_GITHUB_LINK">GitHub</a>
-</td>
-</tr>
-
-<tr>
 <td><b>🥗 Smart AI Nutrition</b></td>
 <td>
 AI-powered nutrition and food analysis system that uses computer vision and Python to provide intelligent food and nutrition insights.
@@ -111,10 +101,12 @@ Web-based bookstore application that provides a responsive interface for browsin
 
 ### 🚗 Driver Drowsiness Detection System
 
-An intelligent driver safety system that continuously monitors eye blink patterns to detect signs of driver fatigue. When drowsiness is detected, the system triggers an alert to improve driver safety and help prevent road accidents.
+A hardware-based driver safety system that detects drowsiness by monitoring eye blink patterns. The system continuously monitors the driver's eyes and triggers an alert when signs of fatigue are detected, helping improve driver safety and prevent road accidents.
 
 **Tech Stack:**  
 `Python` `OpenCV` `Eye Blink Sensor`
+
+**Project Type:** Hardware + Software
 
 ---
 
